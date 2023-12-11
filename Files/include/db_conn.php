@@ -2,7 +2,7 @@
 $host     = "gymsys.mysql.database.azure.com"; // Host name 
 $username = "keerthana"; // Mysql username 
 $password = "salem@636007"; // Mysql password 
-$db_name  = "titangym"; // Database name 
+$db_name  = "titangym"; // Database name
 
 // Connect to server and select databse.
 $con = mysqli_connect($host, $username, $password, $db_name);
