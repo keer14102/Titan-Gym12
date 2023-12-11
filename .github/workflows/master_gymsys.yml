@@ -63,4 +63,4 @@ jobs:
           app-name: 'Gymsys'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A397A4FCBB54496CA015E71D707E960C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CEC5EABDAFF464F9785FDDFE8E27C89 }}
