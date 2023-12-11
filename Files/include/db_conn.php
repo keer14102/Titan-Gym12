@@ -1,7 +1,7 @@
 <?php
-$host     = "localhost"; // Host name 
-$username = "root"; // Mysql username 
-$password = ""; // Mysql password 
+$host     = "gymsys.mysql.database.azure.com"; // Host name 
+$username = "keerthana"; // Mysql username 
+$password = "salem@636007"; // Mysql password 
 $db_name  = "titangym"; // Database name 
 
 // Connect to server and select databse.
